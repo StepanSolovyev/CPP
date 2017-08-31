@@ -1,0 +1,8 @@
+﻿  ServiceInstaller.cpp
+  ServiceBase.cpp
+  SampleService.cpp
+  CppWindowsService.cpp
+  Generating Code...
+CppWindowsService.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CppWindowsService.vcxproj -> B:\Users\ssolovyev\Source\Repos\CPP\CppWindowsService\Debug\CppWindowsService.exe
+  CppWindowsService.vcxproj -> B:\Users\ssolovyev\Source\Repos\CPP\CppWindowsService\Debug\CppWindowsService.pdb (Full PDB)
